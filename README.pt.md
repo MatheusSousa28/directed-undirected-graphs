@@ -32,4 +32,4 @@ Já o grafo não direcional utiliza o algoritmo BFS (Breadth-First Search), que 
 
 Os algoritmos DFS e BFS não são exclusivos de grafos direcionais ou não direcionais; ambos funcionam em qualquer tipo de grafo. A escolha entre eles depende do objetivo da busca: DFS é mais indicado para explorar completamente a estrutura do grafo e detectar ciclos, enquanto BFS é mais indicado para determinar distâncias mínimas e caminhos mais curtos.  
 
-[leia isso em inglês](README.en.md)
+[Leia isso em Inglês](README.en.md)
