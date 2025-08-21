@@ -7,7 +7,7 @@ Esses vértices se conectam por “caminhos” (arestas) que ligam um ao outro.
 A lista de adjacências armazena, para cada vértice, todos os vértices aos quais ele está conectado.
 Isso nos permite implementar algoritmos de busca a partir do grafo e das relações entre os vértices.
 
-**Vantagens e desvantagens da implementação por lista de adjacências**  
+**Vantagens e Desvantagens da implementação por lista de adjacências**  
 **Vantagens:**
 
 - Uso de structs torna o código mais legível.
